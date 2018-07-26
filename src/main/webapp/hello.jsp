@@ -10,6 +10,6 @@
 <body>
 HELLO.jsp
 hello!!!!0jun~~~~
-currnetTime : <%=new Date() %>
+currnetTime : <%=new Date() %>fgf
 </body>
 </html>
